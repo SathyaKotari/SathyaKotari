@@ -42,11 +42,3 @@ I like building systems where mechanical design, electronics, firmware, and test
 **Hardware / Electronics:** PCB design, Altium Designer, BMS, battery systems, prototyping  
 **CAD / Mechanical:** SolidWorks, Fusion 360, 3D printing, parametric design  
 **Growing:** ROS2, Linux, Git/GitHub workflows, I2C/SPI/UART/CAN, control systems
-
-## Current goals
-
-- Build stronger GitHub documentation for every hardware project
-- Add demos, wiring diagrams, CAD renders, and test results
-- Build one ROS2/Gazebo mini-project for rover or robotic-arm simulation
-- Build one embedded protocol project using ESP32 + I2C/SPI/UART/CAN
-- Apply for 2026 internships in robotics, embedded systems, mechatronics, firmware, space robotics, and hardware-software integration
